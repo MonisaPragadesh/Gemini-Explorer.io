@@ -7,7 +7,7 @@ Google Gemini is a suite of AI models developed by Google, designed to enhance v
 
 Create a user-friendly chat interface using Streamlit that connects with Google's state-of-the-art large language model, Gemini. The goal is to provide an accessible platform for exploring and showcasing the capabilities of advanced language models. This project aims to serve as an educational and practical introduction to integrating large language models with intuitive interfaces.
 
-##Mission Workflow:
+## Mission Workflow:
 
 Task 1: 🌐 Enable Google Cloud
 Task 2: 🧬 Google Cloud Initialization
@@ -15,4 +15,13 @@ Task 3: ☁️ Setting up Google Gemini
 Task 4: 📊 Streamlit Integration
 Task 5: 🗣️ Adding Initial System Messages
 Task 6: 📄 Preparing Submission
+
+## Requirements
+
+Pyhton 3.11 or above version
+Gcloud account
+Streamlit
+Vertaxai
+
+
 
