@@ -9,19 +9,58 @@ Create a user-friendly chat interface using Streamlit that connects with Google'
 
 ## Mission Workflow:
 
-Task 1: 🌐 Enable Google Cloud
-Task 2: 🧬 Google Cloud Initialization
-Task 3: ☁️ Setting up Google Gemini
-Task 4: 📊 Streamlit Integration
-Task 5: 🗣️ Adding Initial System Messages
-Task 6: 📄 Preparing Submission
+* Task 1: 🌐 Enable Google Cloud
+* Task 2: 🧬 Google Cloud Initialization
+* Task 3: ☁️ Setting up Google Gemini
+* Task 4: 📊 Streamlit Integration
+* Task 5: 🗣️ Adding Initial System Messages
+* Task 6: 📄 Preparing Submission
 
 ## Requirements
 
-Pyhton 3.11 or above version
-Gcloud account
-Streamlit
-Vertaxai
+* Pyhton 3.11 or above version
+* Gcloud account
+* Streamlit
+* Vertaxai
+
+## Task 1: 🌐 Enabling Google Cloud
+
+* Go to the Google Cloud Platform and Select "Get Started for free".
+* Sign in using your Google Account and then provide the necessary details and complete the billing requirments.
+* Accept the terms and conditions.
+* Complete the payment process to initialize your Google Cloud Account.
+* Create a new project(For instance Gemini Explorer)
+* Access the Google Cloud Console.
+* Navigation -> Artificial Intelligence -> Vertex AI -> Enable All Recommended APIs
+
+## Task 2: 🧬 Google Cloud Initialization
+
+* Install the Google SDK using this Link.
+* Run the following command to initialize the SDK:
+  gcloud init
+* Sign in using your Google Account credentials.
+* Select an existing project or Create a new project
+* Set default compute region and zone (Optional Step)
+
+## Task 3: ☁️ Setting up Google Gemini
+
+* Install the streamlit framework
+  pip install streamlit
+* Refer the Streamlit Documentation to see an Implementation using OpenAI's ChatGPT
+* In the project, we are using Google's Gemini Pro LLM.
+* Use the project ID instead of the project name, like this: project = "project_id". This helps avoid encountering a 403 permission denied error.
+
+## Task 4: 📊 Streamlit Integration
+
+* Implement the steps given in the mission.
+* Run the python file streamlit run filename.py.
+
+## Task 5: 🗣️ Adding Initial System Messages
+
+## Task 6: 📄 Preparing Submission
+* A GitHub repository for the project containing all the project files.
+* Loom Video representing the overall approach. Loom Link
+
 
 
 
