@@ -59,7 +59,7 @@ Create a user-friendly chat interface using Streamlit that connects with Google'
 
 ## Task 6: 📄 Preparing Submission
 * A GitHub repository for the project containing all the project files.
-* Loom Video representing the overall approach. Loom Link
+* Loom Video representing the overall approach. [Loom Link](https://www.loom.com/share/8c86a4f5efe246f7bc9acf3ccaea8557)
 
 
 
