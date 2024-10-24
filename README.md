@@ -61,6 +61,13 @@ Create a user-friendly chat interface using Streamlit that connects with Google'
 * A GitHub repository for the project containing all the project files.
 * Loom Video representing the overall approach. [Loom Link](https://www.loom.com/share/8c86a4f5efe246f7bc9acf3ccaea8557)
 
+## Acknowledgements
+
+This project is based on mission-explorer, developed by [radicalxdev]. We thank them for providing the foundation for this project.
+* Radical AI - For providing the challenges and inspiration for this project.
+* Streamlit - For the user-friendly interface development.
+* Google Cloud Platform - For the various APIs and services used in this project.
+
 
 
 
